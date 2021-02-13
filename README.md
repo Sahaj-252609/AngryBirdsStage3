@@ -1,2 +1,5 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
+# angryBirdsStage3
+● Create a constrained body attached to the bird.
+● Experiment with the different properties of a constraint.
+● Write a different class for the constraint.
+
